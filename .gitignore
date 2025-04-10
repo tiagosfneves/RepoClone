@@ -1,1 +1,6 @@
+# Lista de arquivos ignorados
+#ignora apenas este arquivo
 teste.txt
+
+#ignora todos os arquivos com .txt
+*.txt
