@@ -1,6 +1,6 @@
-# Lista de arquivos ignorados
-#ignora apenas este arquivo
+# BACKLIST
+# Ignorando arquivo por explicitamente: nome.txt
 teste.txt
 
-#ignora todos os arquivos com .txt
-*.txt
+# Ignorando TODOS: *.js
+*.js
